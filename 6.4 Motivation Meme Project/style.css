@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+    height: 300px;
+    width: 100%;
+}
+h1{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+#main{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+p{
+    color: white;
+}
+.Heading{
+    text-align: center;
+    text-decoration: underline white;
+}
